@@ -1,0 +1,1466 @@
+{
+  "data_stream": {
+    "name": "multiversx_bubbles_esdt_raw_data:USDC-c76f1f",
+    "creator": "xfoudres",
+    "created_on": "2023-09-20T10:37:17Z",
+    "last_modified_on": "2023-09-20T10:37:17Z",
+    "marshalManifest": {
+      "totalItems": 250,
+      "nestedStream": "false"
+    }
+  },
+  "data": [
+    {
+      "idx": 1,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
+      "balance": 208858279836.5,
+      "tag": "WEGLD<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 2,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd146exyad7pn95pru78egj07nnyfgnyeaytxte33nxxd24g55uccgs77rr7d",
+      "balance": 58670526518.166664,
+      "tag": "erd46...r7d",
+      "edgeOut": []
+    },
+    {
+      "idx": 3,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqkrgsvct7hfx7ru30mfzk3uy6pxzxn6jj78ss84aldu",
+      "balance": 40785246205.166664,
+      "tag": "Hatom Money Market",
+      "edgeOut": []
+    },
+    {
+      "idx": 4,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqs8p2v9wr8j48vqrmudcj94wu47kqra3r4fvshfyd9c",
+      "balance": 24497151703.77778,
+      "tag": "USDC<>BUSD<>USDT LP AshSwap",
+      "edgeOut": []
+    },
+    {
+      "idx": 5,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15t5kvf7lx0qm4wuea99evj4m2hy50g6dtqy32c5j0d8y4cksk70qnssugl",
+      "balance": 17068271931.444445,
+      "tag": "erd5t...ugl",
+      "edgeOut": []
+    },
+    {
+      "idx": 6,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qr03tgdc7cc5h5nhmxekj83ef06rwrljehq34cvtfg79528des3svgkkw6",
+      "balance": 16645511687.11111,
+      "tag": "erdqr...kw6",
+      "edgeOut": []
+    },
+    {
+      "idx": 7,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd10aeygkg2f2dp9w3gh27ryggg340g4hgrgdutpu5j4369dph0hwpst5krnd",
+      "balance": 11656881758.055555,
+      "tag": "erd0a...rnd",
+      "edgeOut": []
+    },
+    {
+      "idx": 8,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1swwwdswj2k5vkw9n65h873w7txr2vx9ylgp4vaexh0r7u2laqy0qp8mwae",
+      "balance": 10421492907.444445,
+      "tag": "erdsw...wae",
+      "edgeOut": []
+    },
+    {
+      "idx": 9,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqxp28qpnv7rfcmk6qrgxgw5uf2fnp84ar78ssqdk6hr",
+      "balance": 8324122048.722222,
+      "tag": "Hatom Controller",
+      "edgeOut": []
+    },
+    {
+      "idx": 10,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1nn5qujmwdyulrxsgtjzcllky7ted5xlw3np9wnk7cqujyer253sq80f5wv",
+      "balance": 7896431952.055555,
+      "tag": "erdnn...5wv",
+      "edgeOut": []
+    },
+    {
+      "idx": 11,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+      "balance": 7421786306.777778,
+      "tag": "OneDex Swap",
+      "edgeOut": []
+    },
+    {
+      "idx": 12,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd18g6d3zjts4hl24gk4yhwzy827vlsk90d22zfytf8rtkhnlj48znqtwvpep",
+      "balance": 7085336184.388889,
+      "tag": "erd8g...pep",
+      "edgeOut": []
+    },
+    {
+      "idx": 13,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1aw3a6yls9h0t2qg58eswtz7z02eg5ytgcy47h3spq25g9mkavfzs95wudn",
+      "balance": 6135402235.055555,
+      "tag": "erdaw...udn",
+      "edgeOut": []
+    },
+    {
+      "idx": 14,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1da9pq95n0w3syunc5yzt8zk9glk2tay6kly2ekmqcc6vle0yu7xqu0d3m8",
+      "balance": 5687388233.833333,
+      "tag": "erdda...3m8",
+      "edgeOut": []
+    },
+    {
+      "idx": 15,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd16kpzlyg02kne33kt6088fuc2p9fqvtf05h56hv4knaafxuwgsl9q34t0a8",
+      "balance": 5573363943.777778,
+      "tag": "erd6k...0a8",
+      "edgeOut": []
+    },
+    {
+      "idx": 16,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15qlydqmgc55ez62gk6mfhvqq4438enpk6cdte0jhrzrpmql9m52sgttgfu",
+      "balance": 5562739747.611111,
+      "tag": "erd5q...gfu",
+      "edgeOut": []
+    },
+    {
+      "idx": 17,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd19ucg2pawnkxl5hez2lslup0ddhzkejvta7z9lwu5xdc3de5zey7qzdckuc",
+      "balance": 5445128608.166667,
+      "tag": "erd9u...kuc",
+      "edgeOut": []
+    },
+    {
+      "idx": 18,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1kvn4872k9a6evss6zf8d6z62rvtqqylwq8sckx2yv5drkc3mf0lq6zdnnq",
+      "balance": 5432088215.166667,
+      "tag": "erdkv...nnq",
+      "edgeOut": []
+    },
+    {
+      "idx": 19,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1f08ggmrq7k9s3lulf6has0hlraxe427970g295yua5ajqu4gqs9sznqf95",
+      "balance": 5277777777.777778,
+      "tag": "erdf0...f95",
+      "edgeOut": []
+    },
+    {
+      "idx": 20,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1484xvtew823608yc5nkj2jf4a24ug7tr384x0un6e8787023dyhqd3r2e5",
+      "balance": 4884424208.333333,
+      "tag": "erd48...2e5",
+      "edgeOut": []
+    },
+    {
+      "idx": 21,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd193rg54mya6v5zmcng0q0ychnd5xdkhd5gmnmhmm5gv28gn8ddz3qn5lws3",
+      "balance": 4775115671.111111,
+      "tag": "erd93...ws3",
+      "edgeOut": []
+    },
+    {
+      "idx": 22,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1jc9wdmk0jhs9hwt5wplejdklfql8fjvpldc76lknd97dfxevw5aqhtn23n",
+      "balance": 4444444448.388889,
+      "tag": "erdjc...23n",
+      "edgeOut": []
+    },
+    {
+      "idx": 23,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1d35kdy8qwzfh4h9es0euedyz3mz5ky4n2tnjc04cxpf8czrrmjuqt54lz4",
+      "balance": 4128563539.2777777,
+      "tag": "erdd3...lz4",
+      "edgeOut": []
+    },
+    {
+      "idx": 24,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqc08d6g76d2tg43hmn7p4p4csk86ed5ac2jpspyv865",
+      "balance": 3942204368.1666665,
+      "tag": "MOOVE<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 25,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgq3lh80a92d49am3t2pfzheapdxtykzt5kznyqsjhfrx",
+      "balance": 3785522147.9444447,
+      "tag": "Proteo Elite Farm",
+      "edgeOut": []
+    },
+    {
+      "idx": 26,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1p0q284evx4e205pvu25ucqzr6g9rgy93kcc6jk9k72anwfxqdeuqcwyml8",
+      "balance": 3441799351.111111,
+      "tag": "erdp0...ml8",
+      "edgeOut": []
+    },
+    {
+      "idx": 27,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1pvl640t7s8k8zuhwk6mvzyhxjgjwu9k0s944vummgalm5q3kd4ps3reewe",
+      "balance": 3422678059.888889,
+      "tag": "erdpv...ewe",
+      "edgeOut": []
+    },
+    {
+      "idx": 28,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd17xk5g9qtn0lextxt75tlnfla4kwlp4tdhwku7hd4q89are03hngqhx5klj",
+      "balance": 3400316317.4444447,
+      "tag": "erd7x...klj",
+      "edgeOut": [
+        {
+          "receiver": "erd1yp2vkkf5t3e6dyny8mygsym9kd68dtas9ysl9gfjclq8kjfssczsa0df07",
+          "Amount": 50
+        },
+        {
+          "receiver": "erd1x6prg8ktvm2gt26ffw5rs23kxhng03dzdp6awk29yqf3c0xjzq8scwg2sa",
+          "Amount": 30.0
+        },
+        {
+          "receiver": "erd1pumlg3xcrwekjmj83ptdysxjmdea2psp4fjctdxkstx25gwftqes9ce6ur",
+          "Amount": 20
+        }
+      ]
+    },
+    {
+      "idx": 29,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ep35vdw6slnrxh49mt7pyyrac7cjp98vfg39he6vf2mgc3mm03cqs5j8s6",
+      "balance": 3331555555.5555553,
+      "tag": "erdep...8s6",
+      "edgeOut": []
+    },
+    {
+      "idx": 30,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ndchc552j0c78r3t9fdv6jn3f0kvmpss4s63vf6kkn7kjcpquhzq57az45",
+      "balance": 3128126400.5,
+      "tag": "erdnd...z45",
+      "edgeOut": []
+    },
+    {
+      "idx": 31,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
+      "balance": 3096127255.5,
+      "tag": "OURO<>USDC VestaX",
+      "edgeOut": []
+    },
+    {
+      "idx": 32,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1exca7vqrnwnwv98r7rlmw6v27clnrl6yaww4gaz08xuh3mck70csrk64ex",
+      "balance": 2777804202.8333335,
+      "tag": "erdex...4ex",
+      "edgeOut": []
+    },
+    {
+      "idx": 33,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1h74585yjmqrkshqh6n3nr2xh7k6d4p02af5zr39usk4qtq8kptyq8sxalz",
+      "balance": 2623270050.7222223,
+      "tag": "erdh7...alz",
+      "edgeOut": []
+    },
+    {
+      "idx": 34,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd16pemn4sda99etegfzyvr7vzducq4td03jf7yz6j2che7zfuu02nsqeem2s",
+      "balance": 2579070347.7222223,
+      "tag": "erd6p...m2s",
+      "edgeOut": []
+    },
+    {
+      "idx": 35,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqt2p4z6yvzjt8vfsjr4g2gqqmwavhhlyahr7sv7lz8z",
+      "balance": 2467465986.0,
+      "tag": "Unlabelled SC",
+      "edgeOut": []
+    },
+    {
+      "idx": 36,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqyrgfkqzqn64na8h6stfq2ryyf8eyvtrl0a0spqag6s",
+      "balance": 2349008158.5,
+      "tag": "VEGLD<>USDC LP VestaX",
+      "edgeOut": []
+    },
+    {
+      "idx": 37,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1kvs7mt88m2jjdm2e6s6drch7slshckkzgwtppuwgj5jxs6atx0kqlkvvxu",
+      "balance": 2329181757.7777777,
+      "tag": "erdkv...vxu",
+      "edgeOut": []
+    },
+    {
+      "idx": 38,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1delylkpxn3rwg0rwherg2zck5sydptjwvfak6vmww3w8h6fy6gcs2l2du7",
+      "balance": 2253829688.1666665,
+      "tag": "erdde...du7",
+      "edgeOut": []
+    },
+    {
+      "idx": 39,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ukd4kd2p5x7fh7qnehct550z9clrznjpes9fxfccq5wyuphgft3sqx9qmt",
+      "balance": 2226113012.111111,
+      "tag": "Globees Treasury",
+      "edgeOut": []
+    },
+    {
+      "idx": 40,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1jqqc9ngqx258m7hvvtvz4mepy8v70pqjuh05pf4l0zzlmalgl3nsmjft2u",
+      "balance": 2221698362.8333335,
+      "tag": "erdjq...t2u",
+      "edgeOut": []
+    },
+    {
+      "idx": 41,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1j8pn35ak8ykkanhrqcz86kgeu9ufp7zcsvsvhlvj3v8edh8r3qgsytql28",
+      "balance": 2221050834.4444447,
+      "tag": "erdj8...l28",
+      "edgeOut": []
+    },
+    {
+      "idx": 42,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqjz5k2a7ed2xtd0d92zt0j8e7aap70y7g2jpsjz5z4r",
+      "balance": 2209762057.7222223,
+      "tag": "RARE<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 43,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1gg90se28y2z0lq0kct9u8g0gf8j6gpeq096xlyucgh3e366n3q2s7um9dp",
+      "balance": 2081399982.5,
+      "tag": "erdgg...9dp",
+      "edgeOut": []
+    },
+    {
+      "idx": 44,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd160czandjcvr70cvaypcm57jkfnk6kzhj78h3t2q4dfwsp9map3csv52sgu",
+      "balance": 2015863163.8333333,
+      "tag": "erd60...sgu",
+      "edgeOut": []
+    },
+    {
+      "idx": 45,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd14clllcnpwjx8jyt5gcusfy6c4mgzgq6uhypphtwv8u5s3qqnah6qt7ezzj",
+      "balance": 2010708550.8888888,
+      "tag": "erd4c...zzj",
+      "edgeOut": []
+    },
+    {
+      "idx": 46,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1g09sukp2n27ezfux4wd2hfu8evencmhlvpngtpe2xmgwd2x7tpws8ezh8f",
+      "balance": 1948109656.0,
+      "tag": "erdg0...h8f",
+      "edgeOut": []
+    },
+    {
+      "idx": 47,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1sn4qjsw5qnghj3tjw4hulawl0pgx5rvpwpzvdku3khnexl33ns0skztxng",
+      "balance": 1944523552.6111112,
+      "tag": "erdsn...xng",
+      "edgeOut": []
+    },
+    {
+      "idx": 1,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
+      "balance": 208858279836.5,
+      "tag": "WEGLD<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 2,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd146exyad7pn95pru78egj07nnyfgnyeaytxte33nxxd24g55uccgs77rr7d",
+      "balance": 58670526518.166664,
+      "tag": "erd46...r7d",
+      "edgeOut": []
+    },
+    {
+      "idx": 3,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqkrgsvct7hfx7ru30mfzk3uy6pxzxn6jj78ss84aldu",
+      "balance": 40785246205.166664,
+      "tag": "Hatom Money Market",
+      "edgeOut": []
+    },
+    {
+      "idx": 4,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqs8p2v9wr8j48vqrmudcj94wu47kqra3r4fvshfyd9c",
+      "balance": 24497151703.77778,
+      "tag": "USDC<>BUSD<>USDT LP AshSwap",
+      "edgeOut": []
+    },
+    {
+      "idx": 5,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15t5kvf7lx0qm4wuea99evj4m2hy50g6dtqy32c5j0d8y4cksk70qnssugl",
+      "balance": 17068271931.444445,
+      "tag": "erd5t...ugl",
+      "edgeOut": []
+    },
+    {
+      "idx": 6,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qr03tgdc7cc5h5nhmxekj83ef06rwrljehq34cvtfg79528des3svgkkw6",
+      "balance": 16645511687.11111,
+      "tag": "erdqr...kw6",
+      "edgeOut": []
+    },
+    {
+      "idx": 7,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd10aeygkg2f2dp9w3gh27ryggg340g4hgrgdutpu5j4369dph0hwpst5krnd",
+      "balance": 11656881758.055555,
+      "tag": "erd0a...rnd",
+      "edgeOut": []
+    },
+    {
+      "idx": 8,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1swwwdswj2k5vkw9n65h873w7txr2vx9ylgp4vaexh0r7u2laqy0qp8mwae",
+      "balance": 10421492907.444445,
+      "tag": "erdsw...wae",
+      "edgeOut": []
+    },
+    {
+      "idx": 9,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqxp28qpnv7rfcmk6qrgxgw5uf2fnp84ar78ssqdk6hr",
+      "balance": 8324122048.722222,
+      "tag": "Hatom Controller",
+      "edgeOut": []
+    },
+    {
+      "idx": 10,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1nn5qujmwdyulrxsgtjzcllky7ted5xlw3np9wnk7cqujyer253sq80f5wv",
+      "balance": 7896431952.055555,
+      "tag": "erdnn...5wv",
+      "edgeOut": []
+    },
+    {
+      "idx": 11,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+      "balance": 7421786306.777778,
+      "tag": "OneDex Swap",
+      "edgeOut": []
+    },
+    {
+      "idx": 12,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd18g6d3zjts4hl24gk4yhwzy827vlsk90d22zfytf8rtkhnlj48znqtwvpep",
+      "balance": 7085336184.388889,
+      "tag": "erd8g...pep",
+      "edgeOut": []
+    },
+    {
+      "idx": 13,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1aw3a6yls9h0t2qg58eswtz7z02eg5ytgcy47h3spq25g9mkavfzs95wudn",
+      "balance": 6135402235.055555,
+      "tag": "erdaw...udn",
+      "edgeOut": []
+    },
+    {
+      "idx": 14,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1da9pq95n0w3syunc5yzt8zk9glk2tay6kly2ekmqcc6vle0yu7xqu0d3m8",
+      "balance": 5687388233.833333,
+      "tag": "erdda...3m8",
+      "edgeOut": []
+    },
+    {
+      "idx": 15,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd16kpzlyg02kne33kt6088fuc2p9fqvtf05h56hv4knaafxuwgsl9q34t0a8",
+      "balance": 5573363943.777778,
+      "tag": "erd6k...0a8",
+      "edgeOut": []
+    },
+    {
+      "idx": 16,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15qlydqmgc55ez62gk6mfhvqq4438enpk6cdte0jhrzrpmql9m52sgttgfu",
+      "balance": 5562739747.611111,
+      "tag": "erd5q...gfu",
+      "edgeOut": []
+    },
+    {
+      "idx": 17,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd19ucg2pawnkxl5hez2lslup0ddhzkejvta7z9lwu5xdc3de5zey7qzdckuc",
+      "balance": 5445128608.166667,
+      "tag": "erd9u...kuc",
+      "edgeOut": []
+    },
+    {
+      "idx": 18,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1kvn4872k9a6evss6zf8d6z62rvtqqylwq8sckx2yv5drkc3mf0lq6zdnnq",
+      "balance": 5432088215.166667,
+      "tag": "erdkv...nnq",
+      "edgeOut": []
+    },
+    {
+      "idx": 19,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1f08ggmrq7k9s3lulf6has0hlraxe427970g295yua5ajqu4gqs9sznqf95",
+      "balance": 5277777777.777778,
+      "tag": "erdf0...f95",
+      "edgeOut": []
+    },
+    {
+      "idx": 20,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1484xvtew823608yc5nkj2jf4a24ug7tr384x0un6e8787023dyhqd3r2e5",
+      "balance": 4884424208.333333,
+      "tag": "erd48...2e5",
+      "edgeOut": []
+    },
+    {
+      "idx": 21,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd193rg54mya6v5zmcng0q0ychnd5xdkhd5gmnmhmm5gv28gn8ddz3qn5lws3",
+      "balance": 4775115671.111111,
+      "tag": "erd93...ws3",
+      "edgeOut": []
+    },
+    {
+      "idx": 22,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1jc9wdmk0jhs9hwt5wplejdklfql8fjvpldc76lknd97dfxevw5aqhtn23n",
+      "balance": 4444444448.388889,
+      "tag": "erdjc...23n",
+      "edgeOut": []
+    },
+    {
+      "idx": 23,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1d35kdy8qwzfh4h9es0euedyz3mz5ky4n2tnjc04cxpf8czrrmjuqt54lz4",
+      "balance": 4128563539.2777777,
+      "tag": "erdd3...lz4",
+      "edgeOut": []
+    },
+    {
+      "idx": 24,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqc08d6g76d2tg43hmn7p4p4csk86ed5ac2jpspyv865",
+      "balance": 3942204368.1666665,
+      "tag": "MOOVE<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 25,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgq3lh80a92d49am3t2pfzheapdxtykzt5kznyqsjhfrx",
+      "balance": 3785522147.9444447,
+      "tag": "Proteo Elite Farm",
+      "edgeOut": []
+    },
+    {
+      "idx": 26,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1p0q284evx4e205pvu25ucqzr6g9rgy93kcc6jk9k72anwfxqdeuqcwyml8",
+      "balance": 3441799351.111111,
+      "tag": "erdp0...ml8",
+      "edgeOut": []
+    },
+    {
+      "idx": 27,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1pvl640t7s8k8zuhwk6mvzyhxjgjwu9k0s944vummgalm5q3kd4ps3reewe",
+      "balance": 3422678059.888889,
+      "tag": "erdpv...ewe",
+      "edgeOut": []
+    },
+    {
+      "idx": 28,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd17xk5g9qtn0lextxt75tlnfla4kwlp4tdhwku7hd4q89are03hngqhx5klj",
+      "balance": 3400316317.4444447,
+      "tag": "erd7x...klj",
+      "edgeOut": [
+        {
+          "receiver": "erd1yp2vkkf5t3e6dyny8mygsym9kd68dtas9ysl9gfjclq8kjfssczsa0df07",
+          "Amount": 1
+        },
+        {
+          "receiver": "erd1x6prg8ktvm2gt26ffw5rs23kxhng03dzdp6awk29yqf3c0xjzq8scwg2sa",
+          "Amount": 2
+        },
+        {
+          "receiver": "erd1pumlg3xcrwekjmj83ptdysxjmdea2psp4fjctdxkstx25gwftqes9ce6ur",
+          "Amount": 7
+        }
+      ]
+    },
+    {
+      "idx": 29,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ep35vdw6slnrxh49mt7pyyrac7cjp98vfg39he6vf2mgc3mm03cqs5j8s6",
+      "balance": 3331555555.5555553,
+      "tag": "erdep...8s6",
+      "edgeOut": []
+    },
+    {
+      "idx": 30,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ndchc552j0c78r3t9fdv6jn3f0kvmpss4s63vf6kkn7kjcpquhzq57az45",
+      "balance": 3128126400.5,
+      "tag": "erdnd...z45",
+      "edgeOut": []
+    },
+    {
+      "idx": 31,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
+      "balance": 3096127255.5,
+      "tag": "OURO<>USDC VestaX",
+      "edgeOut": []
+    },
+    {
+      "idx": 32,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1exca7vqrnwnwv98r7rlmw6v27clnrl6yaww4gaz08xuh3mck70csrk64ex",
+      "balance": 2777804202.8333335,
+      "tag": "erdex...4ex",
+      "edgeOut": []
+    },
+    {
+      "idx": 33,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1h74585yjmqrkshqh6n3nr2xh7k6d4p02af5zr39usk4qtq8kptyq8sxalz",
+      "balance": 2623270050.7222223,
+      "tag": "erdh7...alz",
+      "edgeOut": []
+    },
+    {
+      "idx": 34,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd16pemn4sda99etegfzyvr7vzducq4td03jf7yz6j2che7zfuu02nsqeem2s",
+      "balance": 2579070347.7222223,
+      "tag": "erd6p...m2s",
+      "edgeOut": []
+    },
+    {
+      "idx": 35,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqt2p4z6yvzjt8vfsjr4g2gqqmwavhhlyahr7sv7lz8z",
+      "balance": 2467465986.0,
+      "tag": "Unlabelled SC",
+      "edgeOut": []
+    },
+    {
+      "idx": 36,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqyrgfkqzqn64na8h6stfq2ryyf8eyvtrl0a0spqag6s",
+      "balance": 2349008158.5,
+      "tag": "VEGLD<>USDC LP VestaX",
+      "edgeOut": []
+    },
+    {
+      "idx": 37,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1kvs7mt88m2jjdm2e6s6drch7slshckkzgwtppuwgj5jxs6atx0kqlkvvxu",
+      "balance": 2329181757.7777777,
+      "tag": "erdkv...vxu",
+      "edgeOut": []
+    },
+    {
+      "idx": 38,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1delylkpxn3rwg0rwherg2zck5sydptjwvfak6vmww3w8h6fy6gcs2l2du7",
+      "balance": 2253829688.1666665,
+      "tag": "erdde...du7",
+      "edgeOut": []
+    },
+    {
+      "idx": 39,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ukd4kd2p5x7fh7qnehct550z9clrznjpes9fxfccq5wyuphgft3sqx9qmt",
+      "balance": 2226113012.111111,
+      "tag": "Globees Treasury",
+      "edgeOut": []
+    },
+    {
+      "idx": 40,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1jqqc9ngqx258m7hvvtvz4mepy8v70pqjuh05pf4l0zzlmalgl3nsmjft2u",
+      "balance": 2221698362.8333335,
+      "tag": "erdjq...t2u",
+      "edgeOut": []
+    },
+    {
+      "idx": 41,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1j8pn35ak8ykkanhrqcz86kgeu9ufp7zcsvsvhlvj3v8edh8r3qgsytql28",
+      "balance": 2221050834.4444447,
+      "tag": "erdj8...l28",
+      "edgeOut": []
+    },
+    {
+      "idx": 42,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqjz5k2a7ed2xtd0d92zt0j8e7aap70y7g2jpsjz5z4r",
+      "balance": 2209762057.7222223,
+      "tag": "RARE<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 43,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1gg90se28y2z0lq0kct9u8g0gf8j6gpeq096xlyucgh3e366n3q2s7um9dp",
+      "balance": 2081399982.5,
+      "tag": "erdgg...9dp",
+      "edgeOut": []
+    },
+    {
+      "idx": 44,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd160czandjcvr70cvaypcm57jkfnk6kzhj78h3t2q4dfwsp9map3csv52sgu",
+      "balance": 2015863163.8333333,
+      "tag": "erd60...sgu",
+      "edgeOut": []
+    },
+    {
+      "idx": 45,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd14clllcnpwjx8jyt5gcusfy6c4mgzgq6uhypphtwv8u5s3qqnah6qt7ezzj",
+      "balance": 2010708550.8888888,
+      "tag": "erd4c...zzj",
+      "edgeOut": []
+    },
+    {
+      "idx": 1,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
+      "balance": 208858279836.5,
+      "tag": "WEGLD<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 2,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd146exyad7pn95pru78egj07nnyfgnyeaytxte33nxxd24g55uccgs77rr7d",
+      "balance": 58670526518.166664,
+      "tag": "erd46...r7d",
+      "edgeOut": []
+    },
+    {
+      "idx": 3,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqkrgsvct7hfx7ru30mfzk3uy6pxzxn6jj78ss84aldu",
+      "balance": 40785246205.166664,
+      "tag": "Hatom Money Market",
+      "edgeOut": []
+    },
+    {
+      "idx": 4,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqs8p2v9wr8j48vqrmudcj94wu47kqra3r4fvshfyd9c",
+      "balance": 24497151703.77778,
+      "tag": "USDC<>BUSD<>USDT LP AshSwap",
+      "edgeOut": []
+    },
+    {
+      "idx": 5,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15t5kvf7lx0qm4wuea99evj4m2hy50g6dtqy32c5j0d8y4cksk70qnssugl",
+      "balance": 17068271931.444445,
+      "tag": "erd5t...ugl",
+      "edgeOut": []
+    },
+    {
+      "idx": 6,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qr03tgdc7cc5h5nhmxekj83ef06rwrljehq34cvtfg79528des3svgkkw6",
+      "balance": 16645511687.11111,
+      "tag": "erdqr...kw6",
+      "edgeOut": []
+    },
+    {
+      "idx": 7,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd10aeygkg2f2dp9w3gh27ryggg340g4hgrgdutpu5j4369dph0hwpst5krnd",
+      "balance": 11656881758.055555,
+      "tag": "erd0a...rnd",
+      "edgeOut": []
+    },
+    {
+      "idx": 8,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1swwwdswj2k5vkw9n65h873w7txr2vx9ylgp4vaexh0r7u2laqy0qp8mwae",
+      "balance": 10421492907.444445,
+      "tag": "erdsw...wae",
+      "edgeOut": []
+    },
+    {
+      "idx": 9,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqxp28qpnv7rfcmk6qrgxgw5uf2fnp84ar78ssqdk6hr",
+      "balance": 8324122048.722222,
+      "tag": "Hatom Controller",
+      "edgeOut": []
+    },
+    {
+      "idx": 10,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1nn5qujmwdyulrxsgtjzcllky7ted5xlw3np9wnk7cqujyer253sq80f5wv",
+      "balance": 7896431952.055555,
+      "tag": "erdnn...5wv",
+      "edgeOut": []
+    },
+    {
+      "idx": 11,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+      "balance": 7421786306.777778,
+      "tag": "OneDex Swap",
+      "edgeOut": []
+    },
+    {
+      "idx": 12,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd18g6d3zjts4hl24gk4yhwzy827vlsk90d22zfytf8rtkhnlj48znqtwvpep",
+      "balance": 7085336184.388889,
+      "tag": "erd8g...pep",
+      "edgeOut": []
+    },
+    {
+      "idx": 13,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1aw3a6yls9h0t2qg58eswtz7z02eg5ytgcy47h3spq25g9mkavfzs95wudn",
+      "balance": 6135402235.055555,
+      "tag": "erdaw...udn",
+      "edgeOut": []
+    },
+    {
+      "idx": 14,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1da9pq95n0w3syunc5yzt8zk9glk2tay6kly2ekmqcc6vle0yu7xqu0d3m8",
+      "balance": 5687388233.833333,
+      "tag": "erdda...3m8",
+      "edgeOut": []
+    },
+    {
+      "idx": 15,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd16kpzlyg02kne33kt6088fuc2p9fqvtf05h56hv4knaafxuwgsl9q34t0a8",
+      "balance": 5573363943.777778,
+      "tag": "erd6k...0a8",
+      "edgeOut": []
+    },
+    {
+      "idx": 16,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15qlydqmgc55ez62gk6mfhvqq4438enpk6cdte0jhrzrpmql9m52sgttgfu",
+      "balance": 5562739747.611111,
+      "tag": "erd5q...gfu",
+      "edgeOut": []
+    },
+    {
+      "idx": 17,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd19ucg2pawnkxl5hez2lslup0ddhzkejvta7z9lwu5xdc3de5zey7qzdckuc",
+      "balance": 5445128608.166667,
+      "tag": "erd9u...kuc",
+      "edgeOut": []
+    },
+    {
+      "idx": 18,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1kvn4872k9a6evss6zf8d6z62rvtqqylwq8sckx2yv5drkc3mf0lq6zdnnq",
+      "balance": 5432088215.166667,
+      "tag": "erdkv...nnq",
+      "edgeOut": []
+    },
+    {
+      "idx": 19,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1f08ggmrq7k9s3lulf6has0hlraxe427970g295yua5ajqu4gqs9sznqf95",
+      "balance": 5277777777.777778,
+      "tag": "erdf0...f95",
+      "edgeOut": []
+    },
+    {
+      "idx": 20,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1484xvtew823608yc5nkj2jf4a24ug7tr384x0un6e8787023dyhqd3r2e5",
+      "balance": 4884424208.333333,
+      "tag": "erd48...2e5",
+      "edgeOut": []
+    },
+    {
+      "idx": 21,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd193rg54mya6v5zmcng0q0ychnd5xdkhd5gmnmhmm5gv28gn8ddz3qn5lws3",
+      "balance": 4775115671.111111,
+      "tag": "erd93...ws3",
+      "edgeOut": []
+    },
+    {
+      "idx": 22,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1jc9wdmk0jhs9hwt5wplejdklfql8fjvpldc76lknd97dfxevw5aqhtn23n",
+      "balance": 4444444448.388889,
+      "tag": "erdjc...23n",
+      "edgeOut": []
+    },
+    {
+      "idx": 23,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1d35kdy8qwzfh4h9es0euedyz3mz5ky4n2tnjc04cxpf8czrrmjuqt54lz4",
+      "balance": 4128563539.2777777,
+      "tag": "erdd3...lz4",
+      "edgeOut": []
+    },
+    {
+      "idx": 24,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqc08d6g76d2tg43hmn7p4p4csk86ed5ac2jpspyv865",
+      "balance": 3942204368.1666665,
+      "tag": "MOOVE<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 25,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgq3lh80a92d49am3t2pfzheapdxtykzt5kznyqsjhfrx",
+      "balance": 3785522147.9444447,
+      "tag": "Proteo Elite Farm",
+      "edgeOut": []
+    },
+    {
+      "idx": 26,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1p0q284evx4e205pvu25ucqzr6g9rgy93kcc6jk9k72anwfxqdeuqcwyml8",
+      "balance": 3441799351.111111,
+      "tag": "erdp0...ml8",
+      "edgeOut": []
+    },
+    {
+      "idx": 27,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1pvl640t7s8k8zuhwk6mvzyhxjgjwu9k0s944vummgalm5q3kd4ps3reewe",
+      "balance": 3422678059.888889,
+      "tag": "erdpv...ewe",
+      "edgeOut": []
+    },
+    {
+      "idx": 28,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd17xk5g9qtn0lextxt75tlnfla4kwlp4tdhwku7hd4q89are03hngqhx5klj",
+      "balance": 3400316317.4444447,
+      "tag": "erd7x...klj",
+      "edgeOut": [
+        {
+          "receiver": "erd1yp2vkkf5t3e6dyny8mygsym9kd68dtas9ysl9gfjclq8kjfssczsa0df07",
+          "Amount": 1
+        },
+        {
+          "receiver": "erd1x6prg8ktvm2gt26ffw5rs23kxhng03dzdp6awk29yqf3c0xjzq8scwg2sa",
+          "Amount": 2
+        },
+        {
+          "receiver": "erd1pumlg3xcrwekjmj83ptdysxjmdea2psp4fjctdxkstx25gwftqes9ce6ur",
+          "Amount": 7
+        }
+      ]
+    },
+    {
+      "idx": 29,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ep35vdw6slnrxh49mt7pyyrac7cjp98vfg39he6vf2mgc3mm03cqs5j8s6",
+      "balance": 3331555555.5555553,
+      "tag": "erdep...8s6",
+      "edgeOut": []
+    },
+    {
+      "idx": 30,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ndchc552j0c78r3t9fdv6jn3f0kvmpss4s63vf6kkn7kjcpquhzq57az45",
+      "balance": 3128126400.5,
+      "tag": "erdnd...z45",
+      "edgeOut": []
+    },
+    {
+      "idx": 31,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
+      "balance": 3096127255.5,
+      "tag": "OURO<>USDC VestaX",
+      "edgeOut": []
+    },
+    {
+      "idx": 32,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1exca7vqrnwnwv98r7rlmw6v27clnrl6yaww4gaz08xuh3mck70csrk64ex",
+      "balance": 2777804202.8333335,
+      "tag": "erdex...4ex",
+      "edgeOut": []
+    },
+    {
+      "idx": 33,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1h74585yjmqrkshqh6n3nr2xh7k6d4p02af5zr39usk4qtq8kptyq8sxalz",
+      "balance": 2623270050.7222223,
+      "tag": "erdh7...alz",
+      "edgeOut": []
+    },
+    {
+      "idx": 34,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd16pemn4sda99etegfzyvr7vzducq4td03jf7yz6j2che7zfuu02nsqeem2s",
+      "balance": 2579070347.7222223,
+      "tag": "erd6p...m2s",
+      "edgeOut": []
+    },
+    {
+      "idx": 35,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqt2p4z6yvzjt8vfsjr4g2gqqmwavhhlyahr7sv7lz8z",
+      "balance": 2467465986.0,
+      "tag": "Unlabelled SC",
+      "edgeOut": []
+    },
+    {
+      "idx": 36,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqyrgfkqzqn64na8h6stfq2ryyf8eyvtrl0a0spqag6s",
+      "balance": 2349008158.5,
+      "tag": "VEGLD<>USDC LP VestaX",
+      "edgeOut": []
+    },
+    {
+      "idx": 37,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1kvs7mt88m2jjdm2e6s6drch7slshckkzgwtppuwgj5jxs6atx0kqlkvvxu",
+      "balance": 2329181757.7777777,
+      "tag": "erdkv...vxu",
+      "edgeOut": []
+    },
+    {
+      "idx": 38,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1delylkpxn3rwg0rwherg2zck5sydptjwvfak6vmww3w8h6fy6gcs2l2du7",
+      "balance": 2253829688.1666665,
+      "tag": "erdde...du7",
+      "edgeOut": []
+    },
+    {
+      "idx": 39,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1ukd4kd2p5x7fh7qnehct550z9clrznjpes9fxfccq5wyuphgft3sqx9qmt",
+      "balance": 2226113012.111111,
+      "tag": "Globees Treasury",
+      "edgeOut": []
+    },
+    {
+      "idx": 40,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1jqqc9ngqx258m7hvvtvz4mepy8v70pqjuh05pf4l0zzlmalgl3nsmjft2u",
+      "balance": 2221698362.8333335,
+      "tag": "erdjq...t2u",
+      "edgeOut": []
+    },
+    {
+      "idx": 41,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1j8pn35ak8ykkanhrqcz86kgeu9ufp7zcsvsvhlvj3v8edh8r3qgsytql28",
+      "balance": 2221050834.4444447,
+      "tag": "erdj8...l28",
+      "edgeOut": []
+    },
+    {
+      "idx": 42,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqjz5k2a7ed2xtd0d92zt0j8e7aap70y7g2jpsjz5z4r",
+      "balance": 2209762057.7222223,
+      "tag": "RARE<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 43,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1gg90se28y2z0lq0kct9u8g0gf8j6gpeq096xlyucgh3e366n3q2s7um9dp",
+      "balance": 2081399982.5,
+      "tag": "erdgg...9dp",
+      "edgeOut": []
+    },
+    {
+      "idx": 44,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd160czandjcvr70cvaypcm57jkfnk6kzhj78h3t2q4dfwsp9map3csv52sgu",
+      "balance": 2015863163.8333333,
+      "tag": "erd60...sgu",
+      "edgeOut": []
+    },
+    {
+      "idx": 45,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd14clllcnpwjx8jyt5gcusfy6c4mgzgq6uhypphtwv8u5s3qqnah6qt7ezzj",
+      "balance": 2010708550.8888888,
+      "tag": "erd4c...zzj",
+      "edgeOut": []
+    },
+    {
+      "idx": 1,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
+      "balance": 208858279836.5,
+      "tag": "WEGLD<>USDC LP xExch.",
+      "edgeOut": []
+    },
+    {
+      "idx": 2,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd146exyad7pn95pru78egj07nnyfgnyeaytxte33nxxd24g55uccgs77rr7d",
+      "balance": 58670526518.166664,
+      "tag": "erd46...r7d",
+      "edgeOut": []
+    },
+    {
+      "idx": 3,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqkrgsvct7hfx7ru30mfzk3uy6pxzxn6jj78ss84aldu",
+      "balance": 40785246205.166664,
+      "tag": "Hatom Money Market",
+      "edgeOut": []
+    },
+    {
+      "idx": 4,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqs8p2v9wr8j48vqrmudcj94wu47kqra3r4fvshfyd9c",
+      "balance": 24497151703.77778,
+      "tag": "USDC<>BUSD<>USDT LP AshSwap",
+      "edgeOut": []
+    },
+    {
+      "idx": 5,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15t5kvf7lx0qm4wuea99evj4m2hy50g6dtqy32c5j0d8y4cksk70qnssugl",
+      "balance": 17068271931.444445,
+      "tag": "erd5t...ugl",
+      "edgeOut": []
+    },
+    {
+      "idx": 6,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qr03tgdc7cc5h5nhmxekj83ef06rwrljehq34cvtfg79528des3svgkkw6",
+      "balance": 16645511687.11111,
+      "tag": "erdqr...kw6",
+      "edgeOut": []
+    },
+    {
+      "idx": 7,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd10aeygkg2f2dp9w3gh27ryggg340g4hgrgdutpu5j4369dph0hwpst5krnd",
+      "balance": 11656881758.055555,
+      "tag": "erd0a...rnd",
+      "edgeOut": []
+    },
+    {
+      "idx": 8,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1swwwdswj2k5vkw9n65h873w7txr2vx9ylgp4vaexh0r7u2laqy0qp8mwae",
+      "balance": 10421492907.444445,
+      "tag": "erdsw...wae",
+      "edgeOut": []
+    },
+    {
+      "idx": 9,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqxp28qpnv7rfcmk6qrgxgw5uf2fnp84ar78ssqdk6hr",
+      "balance": 8324122048.722222,
+      "tag": "Hatom Controller",
+      "edgeOut": []
+    },
+    {
+      "idx": 10,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1nn5qujmwdyulrxsgtjzcllky7ted5xlw3np9wnk7cqujyer253sq80f5wv",
+      "balance": 7896431952.055555,
+      "tag": "erdnn...5wv",
+      "edgeOut": []
+    },
+    {
+      "idx": 11,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+      "balance": 7421786306.777778,
+      "tag": "OneDex Swap",
+      "edgeOut": []
+    },
+    {
+      "idx": 12,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd18g6d3zjts4hl24gk4yhwzy827vlsk90d22zfytf8rtkhnlj48znqtwvpep",
+      "balance": 7085336184.388889,
+      "tag": "erd8g...pep",
+      "edgeOut": []
+    },
+    {
+      "idx": 13,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1aw3a6yls9h0t2qg58eswtz7z02eg5ytgcy47h3spq25g9mkavfzs95wudn",
+      "balance": 6135402235.055555,
+      "tag": "erdaw...udn",
+      "edgeOut": []
+    },
+    {
+      "idx": 14,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1da9pq95n0w3syunc5yzt8zk9glk2tay6kly2ekmqcc6vle0yu7xqu0d3m8",
+      "balance": 5687388233.833333,
+      "tag": "erdda...3m8",
+      "edgeOut": []
+    },
+    {
+      "idx": 15,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd16kpzlyg02kne33kt6088fuc2p9fqvtf05h56hv4knaafxuwgsl9q34t0a8",
+      "balance": 5573363943.777778,
+      "tag": "erd6k...0a8",
+      "edgeOut": []
+    },
+    {
+      "idx": 16,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd15qlydqmgc55ez62gk6mfhvqq4438enpk6cdte0jhrzrpmql9m52sgttgfu",
+      "balance": 5562739747.611111,
+      "tag": "erd5q...gfu",
+      "edgeOut": []
+    },
+    {
+      "idx": 17,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd19ucg2pawnkxl5hez2lslup0ddhzkejvta7z9lwu5xdc3de5zey7qzdckuc",
+      "balance": 5445128608.166667,
+      "tag": "erd9u...kuc",
+      "edgeOut": []
+    },
+    {
+      "idx": 18,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1kvn4872k9a6evss6zf8d6z62rvtqqylwq8sckx2yv5drkc3mf0lq6zdnnq",
+      "balance": 5432088215.166667,
+      "tag": "erdkv...nnq",
+      "edgeOut": []
+    },
+    {
+      "idx": 19,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1f08ggmrq7k9s3lulf6has0hlraxe427970g295yua5ajqu4gqs9sznqf95",
+      "balance": 5277777777.777778,
+      "tag": "erdf0...f95",
+      "edgeOut": []
+    },
+    {
+      "idx": 20,
+      "date": "2023-09-20T10:37:17Z",
+      "category": "n/a",
+      "address": "erd1484xvtew823608yc5nkj2jf4a24ug7tr384x0un6e8787023dyhqd3r2e5",
+      "balance": 4884424208.333333,
+      "tag": "erd48...2e5",
+      "edgeOut": []
+    }
+  ]
+}
