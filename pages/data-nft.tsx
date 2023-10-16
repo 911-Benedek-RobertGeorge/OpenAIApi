@@ -13,14 +13,12 @@ import styles from "../styles/styles.module.css";
 //import "../styles/global.css";
 // import jsonData from "../assets/test-file.json";
 import jsonBigData from "../assets/file-obj.json";
-console.log(process.env.NEXT_PUBLIC_OPENAI_API_KEY);
-console.log(process.env.OPENAI_API_KEY1);
-console.log(process.env.customKey);
-const configuration = new Configuration({
-  dangerouslyAllowBrowser: true,
-  apiKey: "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",
-});
-const openai = new OpenAIApi({ dangerouslyAllowBrowser: true, apiKey: "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" });
+
+// const configuration = new Configuration({
+//   dangerouslyAllowBrowser: true,
+//   apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY,
+// });
+const openai = new OpenAIApi({ dangerouslyAllowBrowser: true, apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY });
 
 export default function DataNftComponent() {
   // data , prompts
@@ -95,7 +93,7 @@ export default function DataNftComponent() {
   async function requestGPT() {
     console.log("Start the request");
     setLoadingRequest(true);
-    if (!configuration.apiKey) {
+    if (!openai.apiKey) {
       console.log("OpenAI API key not configured, please follow instructions in README.md");
       return;
     }

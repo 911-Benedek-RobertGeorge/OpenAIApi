@@ -16,8 +16,8 @@ import dynamic from "next/dynamic";
 // import { logout } from "@multiversx/sdk-dapp/utils/logout";
 
 //const ExtensionLoginButton = dynamic(() => import("@multiversx/sdk-dapp/UI").then((module) => module.ExtensionLoginButton), { ssr: false });
-const MyLoginComponent = dynamic(() => import("../components/LoginComponent").then((module) => module.ExtensionLoginButton), { ssr: false });
-console.log(MyLoginComponent);
+// const MyLoginComponent = dynamic(() => import("../components/LoginComponent").then((module) => module.ExtensionLoginButton), { ssr: false });
+// console.log(MyLoginComponent);
 export default function Home() {
   const commonProps = {
     callbackRoute: "/",
@@ -32,7 +32,7 @@ export default function Home() {
       <Head>
         <title>Data NFT Query</title>
       </Head>
-      <MyLoginComponent></MyLoginComponent>
+      {/* <MyLoginComponent></MyLoginComponent> */}
       {/* <div className={styles.logout}>
           {" "}
           <ExtensionLoginButton loginButtonText="Connect DeFi Wallet" {...commonProps} />
@@ -43,7 +43,7 @@ export default function Home() {
           <a href="https://openai.com/blog/openai-api">Data Nfts with OpenAI</a>
         </h1>
         <div className={styles.grid}>
-          <Link className={styles.card} href="/api/generate">
+          <Link className={styles.card} href="/generate-names">
             <h3>Generate &rarr;</h3>
             <p>Generate names for your data nfts.</p>
           </Link>
